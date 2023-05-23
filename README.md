@@ -12,10 +12,10 @@ This repo contains the report and presentation of the final project.
 ## Sample slides from the presentation:
 
 1. Logistic Regression output:
-![logistic_regression](https://github.com/shihab1h/diabetes_classification/Screenshots/model_1_logistic_reg.png?raw=true)
+![logistic_regression](https://github.com/shihab1h/diabetes_classification/blob/main/Screenshots/model_1_logistic_reg.png)
 
 2. Performance Comparison of the 4 different models:
-![performance_comparison](https://github.com/shihab1h/diabetes_classification/Screenshots/model_performance_comparison.png?raw=true)
+![performance_comparison](https://github.com/shihab1h/diabetes_classification/blob/main/Screenshots/model_performance_comparison.png)
 
 3. Key Results Analysis:
-![key_results](https://github.com/shihab1h/diabetes_classification/Screenshots/key_results.png?raw=true)
+![key_results](https://github.com/shihab1h/diabetes_classification/blob/main/Screenshots/key_results.png)
